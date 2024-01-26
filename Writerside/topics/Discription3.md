@@ -1,0 +1,3 @@
+# Discription
+
+This step allows you to extract data from SAP-Queries. The field table show the fields from the current SAP Query and allow to determine which rows should be selected for the further working process. It’s also possible to set the selection criteria in "Select Options" tab. These are the selection criteria, you would see if you start the SAP Query in the SAP GUI. The step supports Metadata Injection.

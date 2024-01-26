@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE terms SYSTEM "https://resources.jetbrains.com/writerside/1.0/glossary.dtd">
+<terms>
+    <term name="EQ">Equals</term>
+    <term name="NE">Not Equals</term>
+	<term name="GT">Greater Than</term>
+    <term name="LT">Less Than</term>
+	<term name="BT">Between</term>
+    <term name="NB">Not Between</term>
+	<term name="CP">Matches Pattern</term>
+    <term name="GR">Greater Than Or Equal To</term>
+	<term name="LE">Less Than Or Equal To</term>
+	<term name="NP">Not Matches Pattern</term>
+</terms>

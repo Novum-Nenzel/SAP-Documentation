@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE rules SYSTEM "https://resources.jetbrains.com/writerside/1.0/redirection-rules.dtd">
+<rules>
+    <!-- format is as follows
+    <rule id="<unique id>">
+        <accepts>page.html</accepts>
+    </rule>
+    -->
+    <rule id="4aa9bf89">
+        <description>Created after removal of "This is the first topic" from Help Instance</description>
+        <accepts>Default-topic.html</accepts>
+    </rule>
+    <rule id="1e634b0a">
+        <description>Created after removal of "Document Information" from Help Instance</description>
+        <accepts>Document-Information.html</accepts>
+    </rule>
+    <rule id="6c2b683f">
+        <description>Created after removal of "Hitachi Data Connector for SAP" from Help Instance</description>
+        <accepts>Hitachi-Data-Connector-for-SAP.html</accepts>
+    </rule>
+    <rule id="1edf642d">
+        <description>Created after removal of "Overview" from Help Instance</description>
+        <accepts>Overview.html</accepts>
+    </rule>
+    <rule id="6b09cb9d">
+        <description>Created after removal of "SAP and PDI" from Help Instance</description>
+        <accepts>SAP-and-PDI.html</accepts>
+    </rule>
+    <rule id="768a8362">
+        <description>Created after removal of "Step and License Installation for PDI" from Help Instance</description>
+        <accepts>Step-and-License-Installation-for-PDI.html</accepts>
+    </rule>
+    <rule id="1869cb02">
+        <description>Created after removal of "Empty MD Topic" from Help Instance</description>
+        <accepts>Empty-MD-Topic.html</accepts>
+    </rule>
+</rules>

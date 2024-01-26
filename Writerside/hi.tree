@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="hi"
+                 name="Help Instance"
+                 start-page="Document-Information.md">
+
+    <toc-element topic="Hitachi-Data-Connector-for-SAP.md"/>
+    <toc-element topic="Document-Information.md"/>
+    <toc-element topic="Overview.md"/>
+    <toc-element topic="SAP-and-PDI.md"/>
+    <toc-element topic="Disclaimer.md"/>
+    <toc-element topic="Installation-Administration.md">
+        <toc-element topic="Step-and-License-Installation-for-PDI.md"/>
+        <toc-element topic="Installation-for-Pentaho-Server.md"/>
+        <toc-element topic="Troubleshooting.md"/>
+    </toc-element>
+    <toc-element topic="Requirements.md">
+        <toc-element topic="General-Requirements.md"/>
+        <toc-element topic="Server-Mode-Requirements.md"/>
+        <toc-element topic="Installation-of-transport-package.md"/>
+        <toc-element topic="Create-and-configure-a-RFC-Destination.md"/>
+    </toc-element>
+    <toc-element topic="Support-Matrix.md"/>
+    <toc-element topic="User-Documentation.md">
+        <toc-element topic="SAP-BW-ERP-RFC-Executor-Step.md">
+            <toc-element topic="Discription.md">
+            </toc-element>
+            <toc-element topic="Options.md"/>
+            <toc-element topic="Tabs.md"/>
+            <toc-element topic="Buttons.md"/>
+        </toc-element>
+        <toc-element topic="SAP-BW-DSO-Input-Step.md">
+            <toc-element topic="Discription1.md">
+            </toc-element>
+            <toc-element topic="Options1.md"/>
+            <toc-element topic="Tabs1.md"/>
+            <toc-element topic="Buttons1.md"/>
+        </toc-element>
+        <toc-element topic="SAP-ERP-Table-Input-Step.md">
+            <toc-element topic="Discription2.md"/>
+            <toc-element topic="Options2.md"/>
+            <toc-element topic="Tabs2.md"/>
+            <toc-element topic="Buttons2.md"/>
+        </toc-element>
+        <toc-element topic="SAP-Query-Input-Step.md">
+            <toc-element topic="Discription3.md"/>
+            <toc-element topic="Options3.md"/>
+            <toc-element topic="Tabs3.md"/>
+            <toc-element topic="Buttons3.md"/>
+        </toc-element>
+        <toc-element topic="SAP-Report-Input-Step.md">
+            <toc-element topic="Discription4.md"/>
+            <toc-element topic="Options4.md"/>
+            <toc-element topic="Tabs4.md"/>
+            <toc-element topic="Buttons4.md"/>
+        </toc-element>
+        <toc-element topic="SAP-ODP-Extractor-Step.md">
+            <toc-element topic="Discription5.md"/>
+            <toc-element topic="Options5.md"/>
+            <toc-element topic="Tabs5.md"/>
+            <toc-element topic="Buttons5.md"/>
+        </toc-element>
+        <toc-element topic="Create-a-connection-to-the-SAP-ERP-SAP-BW-System.md"/>
+    </toc-element>
+</instance-profile>
