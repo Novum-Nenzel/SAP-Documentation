@@ -3,10 +3,10 @@
 The following steps describe the settings and configurations:
 
 1. TCP/IP Connection (RFC destination of type T) must be created. Use SAP transaction sm59 and create a new TCP/IP connection. After naming the connection as you like, define in the “Technical Settings” tab Program ID (capitals!), *Gateway Host*, and *Gateway service*. The Program ID is the name to be called when the step makes client requests to this RFC. Make sure the correct Activation Type is set (*Registered Server Program*). Besides that, the communication type must be set to Unicode in the “Unicode” tab. The rest of the settings can remain default.
-
+<!--
    ![5.2.2.1](Image-5.2.2.1.png)
    ![5.2.2.2](Image-5.2.2.2.png)
-
+-->
    Then the Transfer Protocol in the “Special Options” tab must be adapted to "Classic with tRCF”.
 
    ![5.2.2.3](Image-5.2.2.3.png)
