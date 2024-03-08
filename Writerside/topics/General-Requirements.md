@@ -219,14 +219,14 @@ To use the Hitachi Data Connector read-rights for the following functions in SAP
         <td></td>
     </tr>
 </table>
-
+<!--
 <img src="Image-5.1.png" alt="5.1.1" />
 <img src="Image.5.1.2.png" alt="5.1.2"/>
 <img src="Image.5.1.3.png" alt="5.1.3"/>
 <img src="Image.5.1.4.png" alt="5.1.4"/>
 <img src="Image.5.1.5.png" alt="5.1.5"/>
 <img src="Image.5.1.6.png" alt="5.1.6"/>
-
+-->
 The following objects are required at least to use the Report step.
 
 <img src="Image.5.1.7.png" alt="5.1.7"/>
