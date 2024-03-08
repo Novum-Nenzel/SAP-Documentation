@@ -2,7 +2,7 @@
 
 ## How to Import
 
-- Pull the latest Version of the Code
+- Pull the latest Version of the Repo
 - Open Writeside Application [Download Link](https://www.jetbrains.com/de-de/writerside/)
-- Open a New Project and choose **Import from MD** then select the the Folder
+- Choose Open and select the downloaded Folder
 
