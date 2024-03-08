@@ -18,7 +18,7 @@
     <td>The RFC function to call, e.g. RFC_READ_TABLE. If you want to search for available functions use the search button to search and select.</td>    
     </tr>
     <tr>
-    <td><img src="Image-Search.png" alt="Search"></td>
+    <td> <img src="Image-Search.png" alt="Search"> </td>
     <td>The Search button can be used to search for a concrete RFC function.
     You can restrict your search using wildcards (* or ? ). All functions in which the search entry occurs are listed.
     </td>    
