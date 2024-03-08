@@ -1,7 +1,5 @@
 # Options
-<!--
-<img src="Image-7.1.2.png" alt="7.1.2"/>
--->
+
 <table>
     <tr>
     <td>Option</td>
