@@ -1,4 +1,5 @@
-# Options
+
+#Options
 
 <table>
     <tr>
@@ -24,5 +25,3 @@
     </td>    
     </tr>
 </table>
-
-<img src="Image-7.1.2.2.png" alt=""/>
