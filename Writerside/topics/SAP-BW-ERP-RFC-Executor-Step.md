@@ -4,8 +4,6 @@
 
 <a href="Discription.md">Description</a> 
 
-<a href="Options.md">Options</a> 
-
 <a href="Tabs.md">Tabs</a>
 
 <a href="Buttons.md">Buttons</a>

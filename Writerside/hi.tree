@@ -27,7 +27,6 @@
         <toc-element topic="SAP-BW-ERP-RFC-Executor-Step.md">
             <toc-element topic="Discription.md">
             </toc-element>
-            <toc-element topic="Options.md"/>
             <toc-element topic="Tabs.md"/>
             <toc-element topic="Buttons.md"/>
         </toc-element>
